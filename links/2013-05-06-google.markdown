@@ -1,0 +1,4 @@
+---
+link: http://google.com
+title: The best in the world
+---
