@@ -1,3 +1,5 @@
+Built a static blog generator using Hakyll.
+
 Contents of the repository:
 
 1. site.hs ==> Main Haskell file for generating the blog
